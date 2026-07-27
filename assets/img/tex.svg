@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#1f3354"/>
+  <g stroke="#16263f" stroke-width="1.4" opacity="0.6">
+    <path d="M0 200 H1200 M0 400 H1200 M0 600 H1200" />
+    <path d="M200 0 V800 M400 0 V800 M600 0 V800 M800 0 V800 M1000 0 V800" />
+  </g>
+  <g fill="#2f4a6b" opacity="0.3">
+    <rect x="90" y="120" width="150" height="14" rx="2"/>
+    <rect x="300" y="520" width="200" height="14" rx="2"/>
+    <rect x="760" y="250" width="180" height="14" rx="2"/>
+    <rect x="980" y="600" width="140" height="14" rx="2"/>
+  </g>
+  <g fill="#c9a24b" opacity="0.18">
+    <circle cx="1050" cy="160" r="7"/>
+    <circle cx="150" cy="640" r="7"/>
+    <circle cx="620" cy="90" r="7"/>
+  </g>
+</svg>
