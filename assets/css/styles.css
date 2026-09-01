@@ -373,14 +373,17 @@ section { padding: clamp(48px, 8vw, 92px) 0; }
   display: flex; align-items: center; justify-content: center;
   font-family: var(--font-head);
   color: #fff;
-  font-size: clamp(1.4rem, 4vw, 2.4rem);
+  font-size: clamp(1.6rem, 5vw, 3rem);
   font-weight: 700;
   letter-spacing: 4px;
   text-transform: uppercase;
   text-align: center;
-  padding: 22px;
   line-height: 1.2;
   pointer-events: none;
+  transform: rotate(-35deg);
+  transform-origin: center center;
+  white-space: nowrap;
+  overflow: hidden;
 }
 .preview-overlay small {
   display: block;
